@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Auvadaiappan S</h1>
-<h3 align="center">A passionate Flutter Developer and Frontend Developer.</h3>
+<h3 align="center">A passionate Salesforce Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auvadaiappan&label=Profile%20views&color=0e75b6&style=flat" alt="auvadaiappan" /> </p>
 
@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/adhavan_ajith" target="blank"><img src="https://img.shields.io/twitter/follow/adhavan_ajith?logo=twitter&style=for-the-badge" alt="adhavan_ajith" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
-
 - 👨‍💻 All of my projects are available at [https://auvadaiappan.github.io/Portfolio/](https://auvadaiappan.github.io/Portfolio/)
 
-- 💬 Ask me about **Flutter and C**
+- 💬 Ask me about **Apex and LWC**
 
 - 📫 How to reach me **adhavanajith2002@gmail.com**
 
